@@ -2,6 +2,7 @@
 # Marketing-Campaign-Analysis
 **Customer segmentation and campaign performance analysis using Python &amp; Power BI**
 
+![Dashboard Preview](Dashboard_Preview.PNG)
 
 This project analyzes customer data from a marketing campaign to uncover spending patterns, evaluate past campaign performance, and segment customers for targeted marketing strategies. Using Python for data exploration and clustering, combined with Power BI for interactive dashboards, the analysis delivers actionable business insights that can boost campaign ROI. The main objectives were to understand which customer segments generate the most revenue, compare the performance of past versus current campaigns, build data-driven customer personas through clustering, and provide marketing recommendations based on insights.
 
